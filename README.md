@@ -1,4 +1,6 @@
-![Web-developer]()
+<p align="center">
+  <img src="https://github.com/camilavelez/MilaV12/blob/main/assets/Black and White Simple Front End LinkedIn Banner.png?raw=true" alt="Banner Camila Velez" />
+</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
   <h1>Hi there 👋, I'm Camila Velez</h1>
