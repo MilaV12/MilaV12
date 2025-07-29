@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/184422508/472185405-45df34b6-0215-4c18-94ab-e30370c638ce.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MjAzNzYsIm5iZiI6MTc1MzgyMDA3NiwicGF0aCI6Ii8xODQ0MjI1MDgvNDcyMTg1NDA1LTQ1ZGYzNGI2LTAyMTUtNGMxOC05NGFiLWUzMDM3MGM2MzhjZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQyMDE0MzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wYWYxMWJhYTc2YTMxMjhhYzAwZWFkMmE1NWJjMzUzNjkzZWFhZDBmZDBhYjFjMDEzNjQ0YWYxOGU4Mzc2YWIxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.XSzgbKjfgKhFK6EKQ7q2AOVRP8aWrWI6neAd6bK-kes" alt="Banner Camila Velez" />
+  <img src="https://i.imgur.com/ZtOH88Z.png" alt="Banner Camila Velez" />
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
@@ -8,13 +8,28 @@
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
 
-- :school: I am a `Junior` 
-- :trophy: `2022 MCM/ICM` Finalist **&** 4x `Scholarship`
-- :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=CamilaVelez&amp;color=EA4335&amp;style=flat-square)](mailto:camilavelezposadaw14@gmail.com)
-- :nerd_face: Always believe `"You are what you loved"`
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-<br>
+<table>
+  <tr>
+    <td>
+
+- :school: Systems Engineering student (`8th semester`)  
+- :woman_student: Focused on `Data Science`, `Frontend Development`, and `Game Design`  
+- :brain: Solid knowledge in `Python`, `HTML`, `CSS`, `JavaScript`, and `MySQL`  
+- :scroll: Certified in `Web Development` (HTML, CSS, JavaScript) and `Python Programming`  
+- :bar_chart: Developing a `thesis project` on **bank fraud detection** using `Machine Learning`  
+- :video_game: Creating a `2D RPG game` using Python, Pygame, and Tiled — inspired by Pokémon-style games  
+- :bulb: Passionate about `AI`, `Cybersecurity`, `Data Visualization`, and `Interactive Design`  
+- :email: Open to **collaboration**, **research**, and tech projects  
+  [![Send me Email](https://img.shields.io/static/v1?label=email&message=CamilaVelez&color=EA4335&style=flat-square)](mailto:camilavelezposadaw14@gmail.com)  
+- :seedling: I believe the best way to learn is by **building**
+
+    </td>
+    <td>
+      <img src="https://i.imgur.com/41JfTqT.gif" alt="Camila banner GIF" width="300"/>
+    </td>
+  </tr>
+</table>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
