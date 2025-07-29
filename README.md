@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/camilavelez/MilaV12/main/assets/banner-camila-velez.png" alt="Banner Camila Velez" />
+  <img src="https://raw.githubusercontent.com/camilavelez/MilaV12/main/Assets/Camilabanner.png" alt="Banner Camila Velez" />
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
