@@ -107,7 +107,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Proyectos
+<h2 align="center">🛠️ Proyects</h2>
 
 <table>
   <tr>
@@ -125,6 +125,20 @@ Proyectos
     </td>
   </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CamilaVelez&show_icons=true&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CamilaVelez&theme=tokyonight" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaVelez&theme=tokyonight&layout=compact" height="200"/>
+</p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
